@@ -7,11 +7,9 @@ arr2 = input().split()
 if "0" in arr2:
     arr2.remove("0")
 
-arrAll = arr1+arr2
+arrAll = arr1[1:]+arr2[1:]
 
 arrSet = set(arrAll)
-
-print(arrSet)
 
 size = len(arrSet)
 
