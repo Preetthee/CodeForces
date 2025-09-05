@@ -1,0 +1,1 @@
+{"name":"Local: cf1829A","url":"d:\\Preetthee\\CP\\CodeForces\\cf1829A.py","tests":[{"id":1756080169425,"input":"5\ncoolforsez\ncadafurcie\ncodeforces\npaiuforces\nforcescode","output":"4\n5\n0\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf1829A.py","group":"local","local":true}

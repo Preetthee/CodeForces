@@ -1,0 +1,1 @@
+{"name":"Local: cf231A","url":"d:\\Preetthee\\CP\\CodeForces\\cf231A.py","tests":[{"id":1756087605603,"input":"3\n1 1 0\n1 1 1\n1 0 0","output":"2"},{"id":1756087611552,"input":"2\n1 0 0\n0 1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf231A.py","group":"local","local":true}

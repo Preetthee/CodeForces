@@ -1,0 +1,1 @@
+{"name":"Local: cf1186A","url":"d:\\Preetthee\\CP\\CodeForces\\cf1186A.py","tests":[{"id":1756350774143,"input":"5 8 6","output":"Yes"},{"id":1756350784027,"input":"3 9 3","output":"Yes"},{"id":1756350793110,"input":"8 5 20","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf1186A.py","group":"local","local":true}

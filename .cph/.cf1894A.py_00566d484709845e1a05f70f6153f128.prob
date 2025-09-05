@@ -1,0 +1,1 @@
+{"name":"Local: cf1894A","url":"d:\\Preetthee\\CP\\CodeForces\\cf1894A.py","tests":[{"id":1756287385999,"input":"7\n5\nABBAA\n3\nBBB\n7\nBBAAABA\n20\nAAAAAAAABBBAABBBBBAB\n1\nA\n13\nAAAABABBABBAB\n7\nBBBAAAA","output":"A\nB\nA\nB\nA\nB\nA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf1894A.py","group":"local","local":true}

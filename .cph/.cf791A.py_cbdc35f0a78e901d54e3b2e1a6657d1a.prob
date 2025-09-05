@@ -1,0 +1,1 @@
+{"name":"Local: cf791A","url":"d:\\Preetthee\\CP\\CodeForces\\cf791A.py","tests":[{"id":1756169978002,"input":"4 7","output":"2"},{"id":1756169983116,"input":"4 9","output":"3"},{"id":1756169988880,"input":"1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf791A.py","group":"local","local":true}

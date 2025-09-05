@@ -1,0 +1,1 @@
+{"name":"Local: cf469A","url":"d:\\Preetthee\\CP\\CodeForces\\cf469A.py","tests":[{"id":1756992178708,"input":"4\n3 1 2 3\n2 2 4","output":"I become the guy."},{"id":1756992189875,"input":"4\n3 1 2 3\n2 2 3","output":"Oh, my keyboard!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf469A.py","group":"local","local":true}

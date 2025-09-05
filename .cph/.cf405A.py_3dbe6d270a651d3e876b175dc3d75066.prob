@@ -1,0 +1,1 @@
+{"name":"Local: cf405A","url":"d:\\Preetthee\\CP\\CodeForces\\cf405A.py","tests":[{"id":1756286670296,"input":"4\n3 2 1 2","output":"1 2 2 3"},{"id":1756286685942,"input":"3\n2 3 8","output":"2 3 8 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf405A.py","group":"local","local":true}

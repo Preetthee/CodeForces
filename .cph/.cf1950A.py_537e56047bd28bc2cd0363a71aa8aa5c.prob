@@ -1,0 +1,1 @@
+{"name":"Local: cf1950A","url":"d:\\Preetthee\\CP\\CodeForces\\cf1950A.py","tests":[{"id":1756080676503,"input":"7\n1 2 3\n3 2 1\n1 5 3\n3 4 1\n0 0 0\n4 1 7\n4 5 7","output":"STAIR\nNONE\nPEAK\nPEAK\nNONE\nNONE\nSTAIR"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\CP\\CodeForces\\cf1950A.py","group":"local","local":true}
