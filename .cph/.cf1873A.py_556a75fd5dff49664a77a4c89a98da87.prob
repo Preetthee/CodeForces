@@ -1,0 +1,1 @@
+{"name":"Local: cf1873A","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1873A.py","tests":[{"id":1758565376977,"input":"6\nabc\nacb\nbac\nbca\ncab\ncba","output":"YES\nYES\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1873A.py","group":"local","local":true}

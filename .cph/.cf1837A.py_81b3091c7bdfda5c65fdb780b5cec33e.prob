@@ -1,0 +1,1 @@
+{"name":"Local: cf1837A","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1837A.py","tests":[{"id":1758000952302,"input":"3\n10 2\n10 3\n3 4","output":"2\n7 3\n1\n10\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1837A.py","group":"local","local":true}

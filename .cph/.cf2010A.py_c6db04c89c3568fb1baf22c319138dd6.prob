@@ -1,0 +1,1 @@
+{"name":"Local: cf2010A","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2010A.py","tests":[{"id":1758694896074,"input":"4\n4\n1 2 3 17\n1\n100\n2\n100 100\n5\n3 1 4 1 5","output":"-15\n100\n0\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2010A.py","group":"local","local":true}
