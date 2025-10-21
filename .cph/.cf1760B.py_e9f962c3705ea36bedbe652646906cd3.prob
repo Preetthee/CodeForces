@@ -1,0 +1,1 @@
+{"name":"Local: cf1760B","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1760B.py","tests":[{"id":1760451609271,"input":"5\n1\na\n4\ndown\n10\ncodeforces\n3\nbcf\n5\nzzzzz","output":"1\n23\n19\n6\n26"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf1760B.py","group":"local","local":true}

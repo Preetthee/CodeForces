@@ -1,0 +1,1 @@
+{"name":"Local: cf1915B","url":"d:\\Preetthee\\Github Repo\\CodeForces\\completed\\cf1915B.py","tests":[{"id":1760541588626,"input":"3\nABC\nC?B\nBCA\nBCA\nCA?\nABC\n?AB\nBCA\nABC","output":"A\nB\nC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\completed\\cf1915B.py","group":"local","local":true}

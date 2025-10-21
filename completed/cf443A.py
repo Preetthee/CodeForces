@@ -1,0 +1,5 @@
+s = input().replace("{","")
+s = s.replace("}","")
+s = s.replace(",","")
+arr = list(map(str, s.split()))
+print(len(set(arr)))

@@ -1,0 +1,1 @@
+{"name":"Local: cf2160C","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2160C.py","tests":[{"id":1760280982246,"input":"6\n0\n3\n6\n8\n10\n11","output":"YES\nYES\nYES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2160C.py","group":"local","local":true}

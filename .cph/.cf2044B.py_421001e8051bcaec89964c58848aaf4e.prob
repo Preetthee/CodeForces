@@ -1,0 +1,1 @@
+{"name":"Local: cf2044B","url":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2044B.py","tests":[{"id":1760452218613,"input":"5\nqwq\nppppp\npppwwwqqq\nwqpqwpqwwqp\npqpqpqpq","output":"pwp\nqqqqq\npppwwwqqq\nqpwwpqwpqpw\npqpqpqpq"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Preetthee\\Github Repo\\CodeForces\\cf2044B.py","group":"local","local":true}
