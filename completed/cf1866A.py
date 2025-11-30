@@ -1,0 +1,5 @@
+t = int(input())
+s = input()
+s = s.replace("-","")
+arr = list(map(int, s.split()))
+print(min(arr))

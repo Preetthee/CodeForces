@@ -1,8 +1,11 @@
-import math
 n = int(input())
 arr = list(map(int, input().split()))
 for i in arr:
-    if math.sqrt(i)%1 == 0 and i>3:
+    c = 0
+    for j in range(1,i):
+        if i%j==0:
+            c+=1
+    if c==2:
         print("YES")
     else:
         print("NO")

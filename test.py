@@ -30,3 +30,26 @@ import math
 # s = "Fox was riding a bus"
 # print(s[:int(len(s)/2)])
 # print(math.log(35,33940307968))
+# print(abs(0-0))
+# s = "ba"
+# print(f"{s[-1]}{s[1:-1:]}{s[0]}")
+# print("".join(sorted(ns)))
+#ccdeefoors scdeefoorsc
+# s = "abcd"
+# n = s
+# s = s*2
+# print(s,n)
+# import sys
+# sys.set_int_max_str_digits(50000000)
+
+# t1, t2, n = map(int, input().split())
+# arr = [0]*(n+2)
+# arr[0] = t1
+# arr[1] = t2
+
+# for i in range(2, n):
+#     arr[i] = arr[i-2] + (arr[i-1] * arr[i-1])
+# print(arr[n-1])
+# s = [1,4,13,6,8,5,3,5]
+# s.pop(s.index(max(s)))
+# print(s)
