@@ -53,3 +53,9 @@ import math
 # s = [1,4,13,6,8,5,3,5]
 # s.pop(s.index(max(s)))
 # print(s)
+# s = "1243001102000"
+# s = s.replace("0","")
+# print(s)
+m = [1,2]
+m[1] = m[1]+1
+print(m)
