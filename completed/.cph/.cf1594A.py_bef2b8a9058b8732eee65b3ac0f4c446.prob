@@ -1,0 +1,1 @@
+{"name":"Local: cf1594A","url":"d:\\Coding\\CodeForces\\completed\\cf1594A.py","tests":[{"id":1780564764454,"input":"7\n1\n2\n3\n6\n100\n25\n3000000000000","output":"0 1\n-1 2 \n1 2 \n1 3 \n18 22\n-2 7\n999999999999 1000000000001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CodeForces\\completed\\cf1594A.py","group":"local","local":true}

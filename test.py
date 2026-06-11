@@ -56,6 +56,37 @@ import math
 # s = "1243001102000"
 # s = s.replace("0","")
 # print(s)
-m = [1,2]
-m[1] = m[1]+1
-print(m)
+# m = [1,2]
+# m[1] = m[1]+1
+# print(m)
+
+# s = "amanda"
+# s = s[:2] + s[2 + 1:]
+# print(s)
+
+# s = "amanda"
+# s = s.replace(s[2],"")
+# print(s)
+
+# print(5//4)
+# s = "abcdef"
+# print(s[3:])
+# a = False
+# for i in range(len(s)):
+#         if s[i]=="h":
+#             s = s[i:]
+#         print(s)
+#         if s[i]=="e":
+#             s = s[i:]
+#         print(s)
+#         if s[i]=="l":
+#             s = s[i:]
+#         print(s)
+#         if s[i]=="o":
+#             s = s[i:]
+#         print(s)
+
+arr = list(map(int, input().split()))
+
+print()
+    

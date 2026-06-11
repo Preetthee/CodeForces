@@ -1,0 +1,1 @@
+{"name":"Local: cf2065B","url":"d:\\Coding\\CodeForces\\cf2065B.py","tests":[{"id":1779144429784,"input":"5\nbaa\nskibidus\ncc\nohio\naadagaad","output":"1\n8\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CodeForces\\cf2065B.py","group":"local","local":true}

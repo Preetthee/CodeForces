@@ -1,0 +1,1 @@
+{"name":"Local: cf996A","url":"d:\\Coding\\CodeForces\\cf996A.py","tests":[{"id":1781112965994,"input":"125","output":"3"},{"id":1781112973732,"input":"43","output":"5"},{"id":1781112977728,"input":"1000000000","output":"10000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CodeForces\\cf996A.py","group":"local","local":true}
