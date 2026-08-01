@@ -86,7 +86,10 @@ import math
 #             s = s[i:]
 #         print(s)
 
-arr = list(map(int, input().split()))
+# arr = list(map(int, input().split()))
 
-print()
-    
+# print()
+
+s1 = "helo"
+s2 = s1[1:]
+print(s2)
